@@ -1,0 +1,30 @@
+<div class="landing">
+    <div class="container">
+      <div class="text">  
+      <h1>Learning is the key</h1>
+      <p>without a doubt learning is the key for making this world much better
+        and education is a quite important human right 
+      </p>
+      <p>learning should be accessible for everyone  who wants to learn anything and it is really important to provide anyone who wants to learn by good resources and great learning materials
+      </p>
+      <p>and that's why this website is aiming to provide everyone and everywhere with a great resources for learning mostly anything and it is will have more and more resources as soon as possible
+      </p>
+      <p>so here is a really helping topic in this situation which is self learning ,and it is a brilliant method for making learning for everyone  and everywhere possible </p>
+      <p>click the button to learn more about self learning</p>
+      </div>
+      <img src="images/157.png" width="450px" class="rounded float-end" alt="key">
+    </div>
+</div>
+
+
+Learning is the key
+without a doubt learning is the key for making this world much better and education is a quite important human right
+
+learning should be accessible for everyone who wants to learn anything and it is really important to provide anyone who wants to learn by good resources and great learning materials
+
+and that's why this website is aiming to provide everyone and everywhere with a great resources for learning mostly anything and it is will have more and more resources as soon as possible
+
+so here is a really helping topic in this situation which is self learning ,and it is a brilliant method for making learning for everyone and everywhere possible
+
+click this button to learn more about self learning
+
