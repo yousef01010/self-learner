@@ -2,7 +2,7 @@
 
 ![Self-Learner](images/screenshot.jpg)
 
-The Self-Learner is a web application designed to help individuals become better self-learners. Our platform provides an extensive collection of videos, articles, and courses on self-learning and its importance. We organize learning paths for various fields, offering high-quality courses, mostly free of charge. Our mission is to equip our users with the tools and knowledge necessary to become self-sufficient learners.
+The Self-Learner is a web application designed to help individuals become better self-learners. Our platform provides an extensive collection of videos, articles, and courses on self-learning and its importance. We organize learning paths for various fields and high-quality courses from numerous great resources, mostly free of charge. Our mission is to equip anyone wants to learn with the tools and knowledge necessary to become self-sufficient learners.
 
 ## Why Self-Learning Matters
 
