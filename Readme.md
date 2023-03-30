@@ -13,7 +13,7 @@ Our courses cover technical and life skills, including programming, problem-solv
 
 ## How to Access the Platform
 
-To access The Self-Learning Platform, simply visit our website at https://yousef01010.github.io/self-learner/. Our platform is entirely web-based, and there is no need to download any software or share any code.
+To access The Self-Learning Platform, simply visit our website at https://yousef01010.github.io/self-learner/. Our platform is entirely web-based,and it is fully responsive for any device and there is no need to download any software.
 
 ## Start Your Self-Learning Journey Today
 
